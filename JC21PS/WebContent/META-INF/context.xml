@@ -6,7 +6,7 @@
       auth="Container"
       type="javax.sql.DataSource"
       driverClassName="com.mysql.jdbc.Driver"
-      url="jdbc:mysql://192.168.54.231:3306/jc21ps_team00?serverTimezone=JST"
+      url="jdbc:mysql://192.168.54.231:3306/jc21ps_team00?serverTimezone=Asia/Tokyo"
       connectionProperties="autoReconnect=true;verifyServerCertificate=false;useSSL=false;requireSSL=false;allowPublicKeyRetrieval=true"
       username="jc21ps_team00"
       password="jc212021"
