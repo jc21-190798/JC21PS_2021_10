@@ -90,6 +90,7 @@ public class JoinRequestControllerServlet extends HttpServlet {
 		// beanをリクエストにセット
 		request.setAttribute("bean", bean);
 
+
 		// 部活情報登録画面を表示
 		request.getRequestDispatcher("A05/JoinRequest.jsp").forward(request, response);
 	}

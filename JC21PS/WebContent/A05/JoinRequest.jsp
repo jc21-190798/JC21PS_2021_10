@@ -55,6 +55,7 @@
   									value='<%=bean.getClubIdList().get(i)%>'
   									onclick="return confirm('申請しますか？')">部員登録申請</button></td>
   		</tr>
+
   		<tr>
   			<td colspan ="2"><%=bean.getClubDescriptionList().get(i) %></td>
   		<%} %>
